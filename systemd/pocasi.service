@@ -1,0 +1,6 @@
+[Unit]
+Description=Pocasi e-ink
+
+[Service]
+ExecStart = /usr/bin/timeout 60 /root/epaper/pocasi.py
+WorkingDirectory=/root/epaper

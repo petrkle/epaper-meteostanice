@@ -1,0 +1,10 @@
+[Unit]
+Description=Pocasi timer
+
+[Timer]
+OnBootSec=0min
+OnCalendar=*:0/10:59
+Unit=pocasi.service
+
+[Install]
+WantedBy=multi-user.target
