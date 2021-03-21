@@ -5,6 +5,11 @@
 - Membránová klávesnice 1x4 znaky
 - Teplotní čidlo DS18B20
 
+## Knihovny
+
+- https://github.com/GregDMeyer/IT8951
+- https://github.com/timofurrer/w1thermsensor
+
 ![Meteo e-ink](img/meteo.jpg)
 
 
